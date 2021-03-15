@@ -1,0 +1,16 @@
+﻿Name,Assign,Status,구현버전,문제유형,발견법
+,,문제,,,
+테스트실패free,,need research,3,runtime error,replit
+" BUFFER_SIZE마다 결과가 다름",,in feedback,3,semantic error,replit
+SEGV,,in feedback,3,runtime error,tester
+" callee 에서의 malloc",,need research,2,semantic error,replit
+같은위치malloc,,need research,3,ignorance,replit
+free결과가 0이 아님,,need research,3,semantic error,replit
+지워지지않는line,,need research,3,semantic error,replit
+파일read시 마지막 문자 추가,,in feedback,3,semantic error,zsh
+read매크로사용안함,,Completed,2,ignorance,tester
+read 호출 부분에서 멈춤,,Completed,2,ignorance,replit
+while 조건 에러,,Completed,2,runtime error,replit
+리턴값 오류,,Completed,2,semantic error,replit
+마지막줄 출력 안됨,,Completed,3,semantic error,replit
+문제사항설명,,,,,
